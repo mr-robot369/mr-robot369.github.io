@@ -103,19 +103,6 @@ Transforming raw data into actionable insights through analytics, visualization,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mr-robot369&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-robot369&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-robot369&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🎯 2026 Goals
 
 - Ship impactful, portfolio-grade Data Analytics projects
